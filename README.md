@@ -1,1 +1,1 @@
-# firmware-samsung-j8y18lte
+# firmware-samsung-j8y18lte A6PLTE
